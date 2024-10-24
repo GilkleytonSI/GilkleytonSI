@@ -6,10 +6,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilkleytonSI&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-<div style="display: inline_block">
+<h3 align="left">Tecnologias que eu utilizo</h3>
  <p>Tecnologias que eu utilizo 👇</p>
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</div>
 
  
  <br>
