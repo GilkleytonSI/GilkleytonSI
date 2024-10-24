@@ -8,7 +8,7 @@
 </div>
 <div style="display: inline_block">
  <p>Tecnologias que eu utilizo 👇</p>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,bootstrap,php,react,nodejs,jquery,mysql,vscode,github,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
  
