@@ -8,7 +8,7 @@
 </div>
 <h3 align="left">Tecnologias que eu utilizo 👇</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,typescript,bootstrap,react,jquery,nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,typescript,bootstrap,react,jquery,nodejs,php,mysql,vscode,git)](https://skillicons.dev)
 
  
  <br>
